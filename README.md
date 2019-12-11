@@ -19,8 +19,8 @@ Adapt authoring tool v0.10.1
 Adapt framework 2.4.0
 
 # Contribute
-This translation needs to be improved, before I satisfy with the quality of translation I will not submit it to the community, but before that you can use it without hesitation.
-Uf you want to make contribution, please sent a pull request.
+This translation needs to be improved, before I satisfy with the quality of translation I will not submit it to the community, but before that you can use it without problem.
+If you want to make contribution, please sent a pull request.
 
 # Adapt Authoring Tool中文语言包
 这是Adapt Authoring tool的语言包文件。
